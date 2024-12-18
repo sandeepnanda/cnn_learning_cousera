@@ -1,0 +1,5 @@
+#data folder
+
+#vscode settings to ignore
+.vscode/*
+*.code-workspace
